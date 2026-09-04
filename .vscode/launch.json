@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "ChargeMY ",
+      "request": "launch",
+      "type": "dart",
+      "args": [
+        "--dart-define=STRIPE_PUBLISHABLE_KEY=pk_test_51U3UscILMvYGIjvE1ebpwvotDbXgwqukfDinnKcDyzhhceM6u3GgoNVHp4EASMYHU3LyMhT7ApceCsy7ZWshZGWL00pGey5ysz"
+      ]
+    }
+  ]
+}
